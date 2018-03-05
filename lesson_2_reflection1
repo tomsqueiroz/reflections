@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+Ao iniciar um repositório, git cria um diretório com todo o histórico das suas próximas modificações, commits, e é necessário para manter o controle de versionamento.

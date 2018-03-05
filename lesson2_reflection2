@@ -1,0 +1,3 @@
+Em que difere a área de preparação do diretório de trabalho e do repositório? Qual valor acha que ela oferece?
+
+A diferença é que você pode selecionar quais itens irão para staging area. Acho que oferece um grande valor para se realizar um único commit com mudanças em mais de um arquivo.
