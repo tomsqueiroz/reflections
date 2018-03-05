@@ -1,0 +1,2 @@
+Como usr os comandos git log e git diff para visualizar os histórico dos arquivos?
+Cada commit será mostrado no git log, a partir disso é possível saber cada commit id e comparar usando o diff com o commit anterior.
